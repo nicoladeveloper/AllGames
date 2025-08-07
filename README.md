@@ -39,7 +39,9 @@ Nistyle.css – Contem estilos específicos da galeria Nintendo,como layout de i
 <p>Background - Fundo estilizado com a classe background;</p>
 <p>Nigame - Galeria de jogos organizada com a classe Nigame</p>
 <p>Jogo - Cada imagem de jogo usa a classe JogoNi</p>
+
 #
+
 </p>
 <h3>Atualizaçõe a serem feitas... </h3>
 <p>Tornar o projeto 100% funcional</p>
@@ -49,7 +51,7 @@ Nistyle.css – Contem estilos específicos da galeria Nintendo,como layout de i
 
 <p>Projeto feito por nicoladeveloper</p>
 <p>Quer ajudar o projeto? | mande indicações de melhoria e apoio</p>
-<p>Muito obrigado!</p>
+<p>Muito obrigado Pelo Apoio!</p>
 </div>
 
 
