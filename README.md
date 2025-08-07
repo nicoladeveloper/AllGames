@@ -26,5 +26,8 @@ Menu de navegação com links para outras páginas: VOLTAR (para index.html), Ni
 Lista de jogos com imagem e descrição, cada um com: Um título do jogo "h2" Uma imagem de fundo
 Uma capa do jogo e Um parágrafo com resumo/história</p>
 </div>
+#
+
+
   
 
