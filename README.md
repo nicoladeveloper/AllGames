@@ -18,24 +18,29 @@ Criar uma interface visual e interativa e funcional sobre diferentes consoles de
 <p>PS5 (Ps5.html)</p>
 
 #
-  
-<p>🎮 Conteúdo Play2.html:
 
+<h4>🎮 Conteúdo Play2.html:</h4>
+<p>
 Menu de navegação com links para outras páginas: VOLTAR (para index.html), Nintendo.html, Xbox.html, Ps5.html, 
 Lista de jogos com imagem e descrição, cada um com: Um título do jogo "h2", Uma imagem de fundo, 
-Uma capa do jogo e Um parágrafo com resumo/história</p>
-#
-🎮 Conteúdo Nintendo.html:
+Uma capa do jogo e Um parágrafo com resumo/história - estilização | style.css</p>
 
+#
+<h4>🎮Conteúdo Nintendo.html:</h4> 
+<p>
 Exibir uma galeria simples e visual com jogos clássicos da Nintendo, permitindo que o usuário navegue para 
 outras plataformas (PS2, PS5, Xbox) com facilidade. 
 
 Visual: Usa duas folhas de estilo externas 
 (Nistyle.css e style.css) 
 style.css – Usado globalmente em todo o site.
-Nistyle.css – Contem estilos específicos da galeria Nintendo,como layout de imagens,
-Fundo estilizado com a classe background; Galeria de jogos organizada com a classe Nigame
-Cada imagem de jogo usa a classe JogoNi
+Nistyle.css – Contem estilos específicos da galeria Nintendo,como layout de imagens:
+
+<p>Background - Fundo estilizado com a classe background;</p>
+<p>Nigame - Galeria de jogos organizada com a classe Nigame</p>
+<p>Jogo - Cada imagem de jogo usa a classe JogoNi</p>
+</p>
+
 </div>
 
 
