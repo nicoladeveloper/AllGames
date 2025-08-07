@@ -3,7 +3,7 @@ https://github.com/user-attachments/assets/065f309d-ece5-4275-bd5d-94dd64fe5bc7
 
 <div align = "left">
 <h4>🎯 Objetivo do projeto:
-Criar uma interface visual e interativa e funcional sobre diferentes consoles de videogame, com foco em design atrativo (vídeo de fundo e navegação clara).</h4>
+Criar uma interface visual e interativa e funcional sobre diferentes consoles , com foco em design atrativo e funcionalidade.</h4>
 
 #
 <p>📝Esse projeto é uma página web de jogos, com Cabeçalho visual e Uma imagem de destaque (logo). Um menu de navegação com links para diferentes páginas funcionais de consoles: </p>
