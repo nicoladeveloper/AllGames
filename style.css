@@ -1,0 +1,97 @@
+    body{
+        margin: 70px;
+        margin-left: 70px;
+        background-image: url(/front/imagens/Play2Fundo.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        
+    nav{
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    nav{
+        box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.233);
+        text-align: center;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;    
+    }
+
+    nav a{
+        color: rgb(205, 216, 214);
+        text-decoration: nono;
+        padding: 20px 40px 10px 0;
+        font-size: 25pt;
+        position: relative;
+    }
+    nav a:hover{
+        color: black;
+    }
+
+    nav a::after{
+        content: " ";
+        width: 0%;
+        height: 5px;
+        background-color: rgb(9, 9, 9);
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        transition: 0.4s ease-in-out;
+    }
+
+    nav a:hover::after{
+        width: 100%;
+        transform: scale(1.1);
+        transition: 0.5ms;
+    }
+
+    .historia{
+        font-size: 12pt;
+        text-align-last: left;
+        margin: 0;
+        padding: 0;
+        line-height: 1.0; 
+    }
+    .historia{
+        position: absolute;
+        width: 380px;
+        margin-top: -110px;
+        margin-left: 313px;
+        color: rgb(208, 207, 210);
+        box-shadow: 0px 3px 10px 5px rgb(13, 13, 14);
+        background-color: rgba(18, 17, 18, 0.47);
+        border-radius: 6px;
+        border: 1px solid rgb(198, 197, 199);
+    }
+     .game{
+        box-shadow: 0px 0px 200px 20px rgb(0, 252, 248);
+        position: static;
+        height: 360px;
+        border-radius: 12px;
+        border: 10px solid rgba(255, 255, 255, 0.777);
+    }
+    .game:hover{
+        box-shadow: 0px 0px 300px 40px black;
+        transition-duration: 0.2s;
+        transform: scale(1.1);
+    }
+    .fundo{
+        box-shadow: 0px 20px 80px 10px rgb(11, 12, 14);
+        position: absolute;
+        margin-left: 300px;
+        height: 230px;
+        border-radius: 12px;
+        margin-top: 10px;
+        border: 3px solid rgba(255, 255, 255, 0.777);
+    }
+    .fundo:hover{
+        transition-duration: 1s;
+        margin-top: -3px;
+    }
+    h2{
+        box-shadow: 0px 0px 230px 2px rgb(4, 126, 249);
+        position: static;
+        color: rgb(255, 255, 255);                   
+        text-shadow: 0px 0px 100px;
+    }
