@@ -7,7 +7,7 @@
 
 <p>
   Formas de contribuir com o projeto open-source:
- 1° criar um fork do projeto no seu github,  e depois para criar seu readme você pode fazer isso puxando os dados localmente com git,
+ 1° forma - criar um fork do projeto no seu github,  e depois para criar seu readme você pode fazer isso puxando os dados localmente com git,
     git clone + Url do projeto exem: 
 </p>
 <div>
@@ -21,7 +21,7 @@
 
 #
 
-<p>2° Diretamente no github:
+<p>2° forma - Diretamente no github:
     Depois de fazer um fork do projeto vá na pasta contribuição diretamente do projeto que você fez o fork atravéz do github
     adicione um readme como seu nome de usuário .MD, dando ideias e soluções a serem implementadas!,
     ou compartilhando o projeto e apoiando em:</p>
