@@ -9,9 +9,9 @@
 
 #
 <h4>Adcionar função de pesquisa de jogos com JS</h4>
-<p>Facilitar na procura de um game especifico</p>
+<p>Pra facilitar na procura de um game especifico</p>
 
 #
 
-<h4>integrar emuladodores para execução dos jogos</h4>
-<p>Integrar Api de emuladores pra tornar os jogos baixaveis ou funcionais</p>
+<h4>Integrar emuladodores para execução dos jogos</h4>
+<p>Integrar Api de emuladores pra tornar os jogos baixáveis ou funcionais</p>
