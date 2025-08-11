@@ -9,9 +9,15 @@
   Formas de contribuir com o projeto open-source:
     criar um fork do projeto no seu github, você pode fazer isso localmente com git, git clone + Url do projeto exem: 
 </p>
+<div>
+    <h4>git clone + a url do projeto - vai puxar os dados para sua maquina</h4>
+    <img width="400" height="200" alt="Image" src="https://github.com/user-attachments/assets/3f50cd29-daf5-4b6a-90e1-d7892704fa86" />
+</div>
 
+#
 
-<p>ou diretamente no githube na pasta contribuição adcione um readme dando ideias e soluções a serem implementadas!,
+<p>Ou diretamente no github:<br>
+    na pasta contribuição adcione um readme dando ideias e soluções a serem implementadas!,
     ou compartilhando o projeto e apoiando, obrigado!</p>
 <p>Apoiar projetos em:</p>
 <div align = "left">
