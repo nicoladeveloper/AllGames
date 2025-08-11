@@ -22,7 +22,7 @@
 #
 
 <p>2° Diretamente no github:
-    Depois de fazer um fork do projeto vá na pasta contribuição diretamente do projeto que você fez o fork atravéz do github<br>
+    Depois de fazer um fork do projeto vá na pasta contribuição diretamente do projeto que você fez o fork atravéz do github
     adicione um readme como seu nome de usuário .MD, dando ideias e soluções a serem implementadas!,
     ou compartilhando o projeto e apoiando em:!</p>
 <div align = "left">
