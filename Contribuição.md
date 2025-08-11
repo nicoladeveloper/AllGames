@@ -7,10 +7,11 @@
 
 <p>
   Formas de contribuir com o projeto open-source:
-  criar um fork no github e um readme dando ideias e soluções a serem implementadas!, ou compartilhando o projeto e apoiando, obrigado!
+    criar um fork do projeto no seu github e na pasta contribuição adcione um readme dando ideias e soluções a serem implementadas!,
+    ou compartilhando o projeto e apoiando, obrigado!
 </p>
 
-<p>Apoiar no Linkedin</p>
+<p>Apoiar projetos em:</p>
 <div align = "left">
   <a href="https://www.linkedin.com/posts/nicolas-oliveira-8b12a02b5_novoprojeto-activity-7359367075640786946-zPj_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEuu1wUBxI2lVX7dnMt4qduKorbjn_pquy0"><img src="https://img.shields.io/badge/-Linkedin-000FFF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/nicoladeveloper/AllGames/blob/main/README.md"><img src="https://img.shields.io/badge/-Github-000FFF?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
