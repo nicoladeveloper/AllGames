@@ -4,9 +4,12 @@
 </h3>
 
 #
+<p>Objetivo é você implementar um readme com o seu nome de usuário do github, e nesse readme, você vai adcionar suas implementações, dicas, contribuição para o projeto em geral</p>
+
+#
 
 <p>
-  Formas de contribuir com o projeto open-source:
+  Formas de contribuir com o projeto open-source:<br>
  1° forma - criar um fork do projeto no seu github,  e depois para criar seu readme você pode fazer isso puxando os dados localmente com git,
     git clone + Url do projeto exem: 
 </p>
@@ -22,7 +25,7 @@
 #
 
 <p>2° forma - Diretamente no github:
-    Depois de fazer um fork do projeto vá na pasta contribuição diretamente do projeto que você fez o fork atravéz do github
+    Depois de fazer um fork do projeto vá na pasta contribuição diretamente do projeto que você fez o fork atravéz do github,
     adicione um readme como seu nome de usuário .MD, dando ideias e soluções a serem implementadas!,
     ou compartilhando o projeto e apoiando em:</p>
 <div align = "left">
