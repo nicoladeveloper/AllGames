@@ -7,6 +7,7 @@ Se puder ajudar apoiando, sugerindo ideias de implementação ou contribuindo co
 This is an **open-source** full stack project for functional emulators that I am developing **alone**.  
 If you can help by supporting, suggesting implementation ideas, or contributing with code, you are more than welcome!
 ---
+Apoie o projeto em: | Support the project at:
 
 ## Objetivo / Objective
 **PT-BR:**  
