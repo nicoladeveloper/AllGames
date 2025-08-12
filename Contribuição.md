@@ -1,4 +1,4 @@
-# 🎮 Projeto Open-Source: Plataforma Full Stack de Emuladores  
+# 🎮 Projeto Open-Source: Plataforma Full Stack Web de Emuladores  
 **Open-Source Project: Full Stack Emulator Platform**
 
 Este é um projeto **open-source** full stack de emuladores funcionais que estou desenvolvendo **sozinho**.  
