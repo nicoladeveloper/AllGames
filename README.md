@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/065f309d-ece5-4275-bd5d-94dd64fe5bc7
  Acesse Contribuição clicando na imagem a baixo e siga os passos para participar do projeto!
 <div align = "left">
  Contribuição<br>
- <img width="250" height="300" alt="Image" src="https://github.com/user-attachments/assets/e5b3c682-6392-4b38-a2d4-a262de5ee7ca" />
+ <a href="https://github.com/nicoladeveloper/AllGames/blob/main/Contribui%C3%A7%C3%A3o.md" target="_blank"><img width="250" height="300" alt="Image" src="https://github.com/user-attachments/assets/e5b3c682-6392-4b38-a2d4-a262de5ee7ca"></a>
 </div>
 
 
