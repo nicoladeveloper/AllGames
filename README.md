@@ -6,8 +6,9 @@ https://github.com/user-attachments/assets/065f309d-ece5-4275-bd5d-94dd64fe5bc7
 <div align = "left">
     <a href="https://github.com/nicoladeveloper" target="_blank"><img src="https://img.shields.io/badge/-Github-9400D3?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/nikke9689" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/nicolas-oliveira-8b12a02b5/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-9400D3?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
+    <a href="https://www.linkedin.com/in/nicolas-oliveira-8b12a02b5/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-9400D3?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
+ Acesse Contribuição e siga os passos para participar do projeto!
+ 
 </div>
 <div align = "left">
 <h4>🎯 Objetivo do projeto:
