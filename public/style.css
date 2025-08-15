@@ -1,7 +1,7 @@
     body{
         margin: 70px;
         margin-left: 70px;
-        background-image: url(/front/imagens/Play2Fundo.jpg);
+        background-image: url(/imagens/Play2Fundo.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;

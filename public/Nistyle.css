@@ -1,0 +1,28 @@
+body {
+  margin: 0px;
+}
+.background {
+  background-image: url(/Nintendo/NintendoFundo.jpg);
+}
+.Nigame {
+  display: flex;
+  overflow: auto;
+  white-space: nowrap;
+  width: 100%;
+  padding: 30px;
+}
+.Nigame::-webkit-scrollbar {
+  display: none;
+}
+.JogoNi {
+  margin-top: 10px;
+  height: 430px;
+  border: 5px solid rgb(247, 5, 5);
+  border-radius: 30px;
+  margin-left: 5px;
+}
+.JogoNi:hover {
+  box-shadow: 0px 0px 20px 10px rgb(25, 13, 16);
+  transition: 0.6s;
+  height: 460px;
+}
