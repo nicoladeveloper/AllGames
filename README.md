@@ -1,77 +1,165 @@
-# AllGames | Explicação do Projeto
-#
-https://github.com/user-attachments/assets/065f309d-ece5-4275-bd5d-94dd64fe5bc7
-#
- <h3>Quer ajudar no projeto? | Conecte-se comigo</h3>
-<div align = "left">
-    <a href="https://github.com/nicoladeveloper" target="_blank"><img src="https://img.shields.io/badge/-Github-9400D3?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/nikke9689" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/nicolas-oliveira-8b12a02b5/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-9400D3?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+# AllGames - Full Stack Emulator Platform
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge)
+
+**Uma plataforma web interativa para explorar e jogar clássicos de diferentes consoles**
+
 </div>
 
-#
+---
 
- Acesse Contribuição clicando na imagem a baixo e siga os passos para participar do projeto!
-<div align = "left">
- Contribuição<br>
- <a href="https://github.com/nicoladeveloper/AllGames/blob/main/Contribui%C3%A7%C3%A3o.md" target="_blank"><img width="250" height="300" alt="Image" src="https://github.com/user-attachments/assets/e5b3c682-6392-4b38-a2d4-a262de5ee7ca"></a>
+## Projeto
+
+**AllGames** é uma plataforma web full stack open-source que oferece uma experiência visual e interativa para explorar jogos clássicos de diversos consoles. O projeto está sendo desenvolvido individualmente e está aberto para contribuições da comunidade.
+
+###  Características Principais
+
+-  **Interface Intuitiva** - Design moderno e responsivo com navegação fluida
+-  **Multi-Plataforma** - Suporte para PlayStation 2, Nintendo, Xbox e PS5
+-  **Galeria Visual** - Cards interativos com capas e informações dos jogos
+-  **Elementos Dinâmicos** - Vídeos de fundo e animações suaves
+-  **Responsivo** - Adaptável a diferentes tamanhos de tela
+
+---
+
+### Frontend
+- **HTML5** - Estrutura semântica das páginas
+- **CSS3** - Estilização avançada com flexbox e animações
+- **JavaScript** - Interatividade (em desenvolvimento)
+
+
+##Consoles Disponíveis
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### PlayStation 2
+![PS2](https://img.shields.io/badge/PS2-003087?style=for-the-badge&logo=playstation&logoColor=white)
+
+Resident Evil 4, GTA San Andreas, Naruto Ultimate Ninja 5, Black, Bully
+
+</td>
+<td align="center" width="25%">
+
+### Nintendo
+![Nintendo](https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendo&logoColor=white)
+
+Super Mario, Zelda, Minecraft, Pokémon, Cuphead
+
+</td>
+<td align="center" width="25%">
+
+### Xbox
+![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
+
+Em desenvolvimento...
+
+</td>
+<td align="center" width="25%">
+
+### PS5
+![PS5](https://img.shields.io/badge/PS5-003087?style=for-the-badge&logo=playstation-5&logoColor=white)
+
+Em desenvolvimento...
+
+</td>
+</tr>
+</table>
+
+---
+
+## Como Contribuir
+
+Este é um projeto **open-source** e sua contribuição é muito bem-vinda! Existem duas formas de contribuir:
+
+### Fork e Pull Request
+1. Faça um fork do projeto
+2. Crie uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
+3. Commit suas mudanças (`git commit -m 'Adicionando nova feature'`)
+4. Push para a branch (`git push origin feature/MinhaFeature`)
+5. Abra um Pull Request
+
+### Contribuição via README
+1. Faça um fork do projeto
+2. Crie um arquivo `seu-usuario-github.md` na pasta `Contribuição/`
+3. Documente suas implementações, ideias e melhorias
+4. Envie um Pull Request
+
+ **Leia o guia completo:** [Contribuição.md](Contribuição.md)
+
+---
+
+## Roadmap
+
+### Concluído
+- [x] Interface principal com navegação entre consoles
+- [x] Galeria de jogos PlayStation 2
+- [x] Galeria de jogos Nintendo com scroll horizontal
+- [x] Sistema de hover effects e animações
+- [x] Vídeo de fundo na página principal
+
+### Em Desenvolvimento
+- [ ] Páginas Xbox e PS5
+- [ ] Sistema de busca de jogos com JavaScript
+- [ ] Tornar o projeto 100% funcional
+- [ ] Melhorias no design e tipografia
+- [ ] Sistema de favoritos
+
+###  Futuro
+- [ ] Integração com emuladores funcionais
+- [ ] Sistema de usuários e perfis
+- [ ] Comentários e avaliações de jogos
+- [ ] API para listagem de jogos
+- [ ] Modo escuro/claro
+- [ ] Suporte para mais consoles
+
+---
+
+
+## Licença
+
+Este projeto está sob licença aberta. Sinta-se livre para usar, modificar e distribuir.
+
+---
+
+## Desenvolvedor
+
+**Nicolas Oliveira**
+
+<div align="left">
+  <a href="https://github.com/nicoladeveloper" target="_blank">
+    <img src="https://img.shields.io/badge/-Github-9400D3?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
+  <a href="https://instagram.com/nikke9689" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/nicolas-oliveira-8b12a02b5/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-9400D3?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
 </div>
 
+---
 
-<div align = "left">
-<h4>🎯 Objetivo do projeto:
-Criar uma interface visual e interativa e funcional sobre diferentes consoles , com foco em design atrativo e funcionalidade.</h4>
+## Apoie o Projeto
 
-#
-<p>📝Esse projeto é uma página web de jogos, com Cabeçalho visual e Uma imagem de destaque (logo). Um menu de navegação com links para diferentes páginas funcionais de consoles: </p>
+Se você gostou do projeto, considere:
+- Dar uma estrela no repositório
+- Reportar bugs e sugerir melhorias
+- Fazer um fork e contribuir com código
+- Compartilhar com outros desenvolvedores
 
-<div align = "left">
-<p>PlayStation 2 (Play2.html)</p>
-  
-<p>Nintendo (Nintendo.html)</p>
+---
 
-<p>Xbox (Xbox.html)</p>
+<div align="center">
 
-<p>PS5 (Ps5.html)</p>
+**Muito obrigado pelo apoio! 🎮💜**
 
-#
+Feito com ❤️ por [nicoladeveloper](https://github.com/nicoladeveloper)
 
-<h4>🎮 Conteúdo Play2.html:</h4>
-<p>
-Menu de navegação com links para outras páginas: VOLTAR (para index.html), Nintendo.html, Xbox.html, Ps5.html, 
-Lista de jogos com imagem e descrição, cada um com: Um título do jogo "h2", Uma imagem de fundo, 
-Uma capa do jogo e Um parágrafo com resumo/história - estilização | style.css</p>
-
-#
-<h4>🎮Conteúdo Nintendo.html:</h4> 
-<p>
-Exibir uma galeria simples e visual com jogos clássicos da Nintendo, permitindo que o usuário navegue para 
-outras plataformas (PS2, PS5, Xbox) com facilidade. 
-
-Visual: Usa duas folhas de estilo externas 
-(Nistyle.css e style.css) 
-style.css – Usado globalmente em todo o site.
-Nistyle.css – Contem estilos específicos da galeria Nintendo,como layout de imagens:
-
-<p>Background - Fundo estilizado com a classe background;</p>
-<p>Nigame - Galeria de jogos organizada com a classe Nigame</p>
-<p>Jogo - Cada imagem de jogo usa a classe JogoNi</p>
-
-#
-
-</p>
-<h3>Atualizaçõe a serem feitas... </h3>
-<p>Tornar o projeto 100% funcional</p>
-<p>Atualização de design | Fonte | interação</p>
-<p>Adcionar função de pesquisa de jogos com JS</p>
-<p>integrar emuladodores para execução dos jogos </p>
-
-<p>Projeto feito por nicoladeveloper</p>
-<p>Quer ajudar o projeto? | mande indicações de melhoria e apoio</p>
-<p>Muito obrigado Pelo Apoio!</p>
 </div>
-
-
-
-  
-
