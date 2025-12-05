@@ -71,61 +71,23 @@ Em desenvolvimento...
 </td>
 </tr>
 </table>
-
 ---
 
 ## Como Contribuir
 
 Este é um projeto **open-source** e sua contribuição é muito bem-vinda! Existem duas formas de contribuir:
 
-### Fork e Pull Request
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
-3. Commit suas mudanças (`git commit -m 'Adicionando nova feature'`)
-4. Push para a branch (`git push origin feature/MinhaFeature`)
-5. Abra um Pull Request
-
-### Contribuição via README
-1. Faça um fork do projeto
-2. Crie um arquivo `seu-usuario-github.md` na pasta `Contribuição/`
-3. Documente suas implementações, ideias e melhorias
+deias e melhorias
 4. Envie um Pull Request
 
  **Leia o guia completo:** [Contribuição.md](Contribuição.md)
-
----
-
-## Roadmap
-
-### Concluído
-- [x] Interface principal com navegação entre consoles
-- [x] Galeria de jogos PlayStation 2
-- [x] Galeria de jogos Nintendo com scroll horizontal
-- [x] Sistema de hover effects e animações
-- [x] Vídeo de fundo na página principal
-
-### Em Desenvolvimento
-- [ ] Páginas Xbox e PS5
-- [ ] Sistema de busca de jogos com JavaScript
-- [ ] Tornar o projeto 100% funcional
-- [ ] Melhorias no design e tipografia
-- [ ] Sistema de favoritos
-
-###  Futuro
-- [ ] Integração com emuladores funcionais
-- [ ] Sistema de usuários e perfis
-- [ ] Comentários e avaliações de jogos
-- [ ] API para listagem de jogos
-- [ ] Modo escuro/claro
-- [ ] Suporte para mais consoles
-
+ 
 ---
 
 
 ## Licença
 
 Este projeto está sob licença aberta. Sinta-se livre para usar, modificar e distribuir.
-
 ---
 
 ## Desenvolvedor
